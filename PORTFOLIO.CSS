@@ -491,7 +491,7 @@ button:hover {
 .port{
     padding: 0px;
 }
-    .port h4, p {
+    .port h4 p {
         display: none;
     }
     .port img{
